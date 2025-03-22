@@ -5,9 +5,9 @@ from oauth2client import client, file, tools
 import openai
 import re
 openai.organization = "org-HY9eNlQ5xSMYsQ0QzZkx4iKO"
-API_KEY= "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"
+API_KEY= "Your_API_Key"
 openai.api_key = API_KEY
-Google_API_KEY ="AIzaSyBkfIa12KckrxJJhor6iMi0FY9-C8UlJOQ"    
+Google_API_KEY ="Your_API_Key"    
 
 def CreateQuiz(Content_text):
     completion = openai.ChatCompletion.create(
