@@ -29,4 +29,4 @@ Quiz Generator est une application web intelligente qui écoute ta voix, compren
 
 - OpenAI GPT-3.5 – Génération de contenu intelligent
 
-![Generated Quiz](assets/quiz_example.png)
+![Generated Quiz](assets/Quiz.png)
