@@ -1,21 +1,32 @@
-# Quiz-Generator
-Quiz Generator with Streamlit
-# Quiz Generator
+# 🎙️ Quiz Generator – Génère des quiz à partir de ta voix !
 
-This is a simple application that generates quizzes based on audio recordings. It uses the OpenAI GPT-3.5 language model to transcribe the audio, generate quiz questions, and evaluate the user's answers.
+Transforme ta voix en quiz interactif avec GPT-3.5 + Streamlit !
 
-## Features
+# 🚀 Description
+Quiz Generator est une application web intelligente qui écoute ta voix, comprend ce que tu dis, et te propose instantanément un quiz personnalisé. Elle combine reconnaissance vocale, traitement du langage naturel, et interface interactive.
 
-- Record audio to provide the topic and number of questions for the quiz.
-- Transcribe the audio using the Google Speech-to-Text API.
-- Utilize the OpenAI GPT-3.5 model to generate quiz questions and options.
-- Allow users to select answers for each question.
-- Compute the score based on the user's answers and display the results.
+![App Preview](assets/App.png)
 
-## Technologies Used
+# ✨ Fonctionnalités
+🎤 Enregistre ta voix pour spécifier un sujet et le nombre de questions.
 
+🧠 Transcription automatique via Google Speech-to-Text.
+
+🤖 Génération de questions/réponses avec OpenAI GPT-3.5.
+
+🧪 Interface interactive : réponds au quiz directement dans l'app.
+
+📊 Calcul du score en temps réel avec feedback instantané.
+
+# 🧰 Technologies
 - Python
-- Streamlit: A Python framework for building interactive web applications.
-- Sounddevice and Soundfile: Python libraries for recording and working with audio.
-- SpeechRecognition: A library for performing speech recognition using various APIs.
-- OpenAI GPT-3.5: A state-of-the-art language model for natural language processing tasks.
+
+- Streamlit – Pour une UI simple et rapide
+
+- Sounddevice & Soundfile – Enregistrement audio
+
+- SpeechRecognition – Transcription vocale
+
+- OpenAI GPT-3.5 – Génération de contenu intelligent
+
+![Generated Quiz](assets/quiz_example.png)
