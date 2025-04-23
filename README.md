@@ -9,6 +9,7 @@ Quiz Generator is a smart web app that listens to your voice, understands what y
   <img src="assets/App.png" alt="App Preview" width="400" style="border: 1px solid black;"/>
 </p>
 
+
 # ✨ Features
 
 🎤 Record your voice to set the topic and number of questions.
