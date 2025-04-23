@@ -5,7 +5,9 @@ Transforme ta voix en quiz interactif avec GPT-3.5 + Streamlit !
 # 🚀 Description
 Quiz Generator est une application web intelligente qui écoute ta voix, comprend ce que tu dis, et te propose instantanément un quiz personnalisé. Elle combine reconnaissance vocale, traitement du langage naturel, et interface interactive.
 
-![App Preview](assets/App.png)
+<p align="center">
+  <img src="assets/App.png" alt="App Preview" width="350"/>
+</p>
 
 # ✨ Fonctionnalités
 🎤 Enregistre ta voix pour spécifier un sujet et le nombre de questions.
